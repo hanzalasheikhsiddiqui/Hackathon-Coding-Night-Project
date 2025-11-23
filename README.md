@@ -7,7 +7,7 @@ A simple single-page mini social media application built using **HTML, CSS, and 
 ## 🔗 Live Demo
 
 **Live Website:**
-<a href="coding-night-smit-project.netlify.app">*DEMO*<?a>
+[https://coding-night-smit-project.netlify.app](https://coding-night-smit-project.netlify.app)
 
 ---
 
