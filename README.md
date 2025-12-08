@@ -65,14 +65,6 @@ All posts and liked states are stored using **LocalStorage**, keeping the app fu
 
 ---
 
-## 🧑‍💻 How to Run
-
-1. Download or clone the repository
-2. Open `index.html` in your browser
-3. Start using the app
-
----
-
 ## 🎯 Purpose
 
 Built for a hackathon to showcase frontend development, DOM manipulation, and LocalStorage handling.
